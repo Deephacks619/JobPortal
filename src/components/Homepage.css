@@ -1,0 +1,11 @@
+.homi{
+    margin: 40px;
+    margin-top:80px;
+    box-shadow:2px 2px 2px 1px;
+
+}
+.jobsdetails{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }

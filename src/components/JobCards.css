@@ -1,0 +1,42 @@
+.Card{
+        border-radius: 5px;
+        box-shadow: 0px 5px 20px rgb(71,71,71);
+        background-color: whitesmoke;
+        margin: 15px;
+        display: grid;
+        grid-gap: 10px;
+        padding: 18px;
+        grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+        width: 270px;
+}
+.Card:hover{
+    transform:scale(1.03);
+    transition:0.4s;
+}
+.viewjob{
+    border: 2px solid red;
+    width: 200px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 8px 20px;
+    color: black;
+    cursor: pointer;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+  .viewjob:hover{
+      background-color: salmon;
+      transition: 0.4s;
+  
+  }
+  .viewjob a{
+      text-decoration: none;
+      color: black;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  .viewjob:focus{
+      outline: none;
+    }
+    .viewjob:active{
+      background-color:sandybrown;
+    }
