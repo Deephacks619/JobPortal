@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Deephacks619/JobPortal/static/css/main.ef1dad0c.chunk.css",
+    "main.js": "/Deephacks619/JobPortal/static/js/main.8fcdfd2b.chunk.js",
+    "main.js.map": "/Deephacks619/JobPortal/static/js/main.8fcdfd2b.chunk.js.map",
+    "runtime-main.js": "/Deephacks619/JobPortal/static/js/runtime-main.fe32206b.js",
+    "runtime-main.js.map": "/Deephacks619/JobPortal/static/js/runtime-main.fe32206b.js.map",
+    "static/js/2.47dad7d4.chunk.js": "/Deephacks619/JobPortal/static/js/2.47dad7d4.chunk.js",
+    "static/js/2.47dad7d4.chunk.js.map": "/Deephacks619/JobPortal/static/js/2.47dad7d4.chunk.js.map",
+    "index.html": "/Deephacks619/JobPortal/index.html",
+    "precache-manifest.a42ae1a22feaf2708ab2534602ee8057.js": "/Deephacks619/JobPortal/precache-manifest.a42ae1a22feaf2708ab2534602ee8057.js",
+    "service-worker.js": "/Deephacks619/JobPortal/service-worker.js",
+    "static/css/main.ef1dad0c.chunk.css.map": "/Deephacks619/JobPortal/static/css/main.ef1dad0c.chunk.css.map",
+    "static/js/2.47dad7d4.chunk.js.LICENSE.txt": "/Deephacks619/JobPortal/static/js/2.47dad7d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe32206b.js",
+    "static/js/2.47dad7d4.chunk.js",
+    "static/css/main.ef1dad0c.chunk.css",
+    "static/js/main.8fcdfd2b.chunk.js"
+  ]
+}
